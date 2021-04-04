@@ -2,7 +2,7 @@ Form to:
 -Log in 
 -Register 
 
-Language's:
+Languages:
 -HTML
 -CSS
 -JAVASCRIPT
